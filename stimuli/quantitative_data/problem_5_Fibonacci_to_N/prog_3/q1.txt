@@ -1,0 +1,6 @@
+1. Select the expected output for the following test case: 8
+
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8, 13]
+None of the above

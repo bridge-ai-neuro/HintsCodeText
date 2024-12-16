@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: cargo
+
+True
+False
+ograc
+None of the above

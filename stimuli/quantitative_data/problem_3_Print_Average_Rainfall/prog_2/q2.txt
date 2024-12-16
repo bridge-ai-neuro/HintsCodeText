@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: [-1, 2, 3, -999]
+
+no data
+2.50
+1.33
+None of the above

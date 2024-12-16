@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: cargo
+
+0
+1
+False
+None of the above

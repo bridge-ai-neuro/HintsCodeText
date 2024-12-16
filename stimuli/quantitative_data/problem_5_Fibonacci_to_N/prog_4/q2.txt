@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: 5
+
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3]
+None of the above

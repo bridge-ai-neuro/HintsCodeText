@@ -1,0 +1,6 @@
+1. Select the expected output for the following test case: [-1, 2, 3, -999]
+
+2.50
+no data
+1.33
+None of the above

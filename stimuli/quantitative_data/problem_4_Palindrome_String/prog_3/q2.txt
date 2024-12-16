@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: x
+
+False
+True
+r
+None of the above

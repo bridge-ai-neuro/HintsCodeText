@@ -1,0 +1,6 @@
+1. Select the expected output for the following test case: [1, -2, 3]
+
+4
+2
+5
+None of the above

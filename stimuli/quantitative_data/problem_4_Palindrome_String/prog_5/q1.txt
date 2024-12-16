@@ -1,0 +1,6 @@
+1. Select the expected output for the following test case: cargo
+
+False
+1
+0
+None of the above

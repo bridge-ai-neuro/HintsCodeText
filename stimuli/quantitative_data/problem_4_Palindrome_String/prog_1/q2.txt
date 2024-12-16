@@ -1,0 +1,6 @@
+2. Select the output of the buggy program for the following test case: racecar
+
+False
+True
+racecar
+None of the above

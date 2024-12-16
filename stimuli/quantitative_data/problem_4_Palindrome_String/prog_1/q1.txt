@@ -1,0 +1,6 @@
+1. Select the expected output for the following test case: racecar
+
+True
+False
+racecar
+None of the above
